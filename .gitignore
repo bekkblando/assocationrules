@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io
 
 ### Python ###
+=======
+>>>>>>> b478bf642175005f28ba3ecdaeb67a0a7cfcce0f
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -9,6 +12,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+<<<<<<< HEAD
 .direnv
 .Python
 .idea
@@ -16,6 +20,9 @@ __pycache__/
 movieratings/ratings.dat
 movieratings/movies.dat
 movieratings/users.dat
+=======
+.Python
+>>>>>>> b478bf642175005f28ba3ecdaeb67a0a7cfcce0f
 env/
 build/
 develop-eggs/
@@ -64,7 +71,10 @@ docs/_build/
 
 # PyBuilder
 target/
+<<<<<<< HEAD
 
 data/
 *.sqlite
 *.sqlite3
+=======
+>>>>>>> b478bf642175005f28ba3ecdaeb67a0a7cfcce0f
